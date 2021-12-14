@@ -1,0 +1,88 @@
+.app-head-title {
+    color: #CBE2E2;
+    padding: 20px;
+    margin-left: 13px;
+    font-size: 55px;
+}
+
+.text-properties {
+    color: #CBE2E2;
+    padding: 20px;
+    margin-left: 13px;
+}
+
+.label-dropdown {
+    margin-left: 35px;
+}
+
+.dropdown-model {
+    color: darkblue;
+    margin-left: 35px;
+    width: 84%;
+    background-color: #1F5869;
+}
+
+.VirtualizedSelectOption {
+    background-color: #1F5869;
+    font-size: 20px;
+    color: #75C9BE;
+ }
+
+.VirtualizedSelectFocusedOption {
+    background-color: #1F5869;
+    opacity: .7;
+}
+
+.Select-control {
+    background-color: #75C9BE;
+}
+
+.Select-value-label {
+    color: #153F4C !important;
+    font-size: 20px;
+}
+
+.slider-label {
+    margin-top: 8px;
+    margin-left: 35px;
+}
+
+.pagination-style {
+    margin-left: 12px;
+
+}
+
+.model-analyst {
+    height: 100%;
+    background-color: #153F4C;
+    margin-left: 50px;
+}
+
+.metric-style {
+    color: #1F5869;
+    font-size: 100px;
+    text-align: center;
+}
+
+.metric-col-style {
+    height: 100%;
+    background-color: #75C9BE;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.metric-value-style {
+    color: #CBE2E2;
+    font-size: 100px;
+    text-align: center;
+}
+
+.metric-value-col-style {
+    height: 100%;
+    background-color: #153F4C;
+    margin-top: 30px;
+}
+
+.metric-correlation-style {
+    text-align: center;
+}
